@@ -1,11 +1,11 @@
 {
-  "name": "vid-test",
+  "name": "vid",
   "repository": {
     "type": "git",
     "url": "https://github.com/ellucian-developer/experience-sdk-sample-extensions"
   },
   "version": "8.1.0",
-  "description": "Description of sdk-samples",
+  "description": "Virtual Student ID",
   "main": "index.js",
   "license": "Apache 2.0",
   "engines": {
@@ -64,7 +64,7 @@
     "jsonpath": "1.1.1",
     "rewiremock": "3.14.3",
     "webpack": "5.76.0",
-    "webpack-cli": "4.10.0",
+    "webpack-cli": "^4.10.0",
     "webpack-dev-server": "4.7.4"
   },
   "overrides": {
