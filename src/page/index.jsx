@@ -280,7 +280,7 @@ const IDPage = (props) => {
   const defaultImage =
     "https://www.broward.edu/experience/_images/bcid/dpi.webp";
   const [imageSrc, setImageSrc] = useState(
-    `https://generalssb-test.browardsaas.elluciancloud.com:8101/BannerGeneralSsb/ssb/PersonalInformationPicture/picture?bannerId=${studentId}`,
+    `https://mybc.broward.edu/zext/ext/Photo/${studentId}.JPG`,
   );
 
   return (
