@@ -1,7 +1,7 @@
 const helper = require("./src/i18n/manifest.helper.js");
 
 module.exports = {
-  name: "VID",
+  name: "Virtual Student ID",
   publisher: "JV",
   configuration: {
     client: [
